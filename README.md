@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karlwacker
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...software development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...future projects
 - 📫 How to reach me ...karl.wackeriii@gmail.com
 
 <!---
